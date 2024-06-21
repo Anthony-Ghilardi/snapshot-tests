@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="d-flex align-items-center justify-content-center text-center min-vh-100"
+  >
+    <div
+      className="card"
+      style={
+        Object {
+          "width": "18rem",
+        }
+      }
+    >
+      <img
+        alt="Photo of Me"
+        className="card-img-top"
+        src="image_67228673.JPG"
+        style={
+          Object {
+            "height": "100%",
+            "objectFit": "cover",
+          }
+        }
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          Anthony-Ghilardi
+        </div>
+        <p
+          className="card-text"
+        >
+          I am learning how to become a software developer! I currently work at The Home Depot part time and have considered trying to become a Junior Developer for The Home Depot!
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
